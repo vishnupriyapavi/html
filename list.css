@@ -1,0 +1,59 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(https://th.bing.com/th/id/OIP.jTr6fbOCWu0NZp3s0qD3ZgHaEo?w=280&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+    background-size:cover;
+
+}
+
+h1
+{color: rgb(106, 106, 239);
+    /* background-color: aqua;
+    border: 5px solid black; */
+
+}
+ol
+{
+color: blueviolet;
+background-color: aqua;
+border: 5px solid white;
+list-style-type: none;
+margin: 0%;
+padding: 0%;
+overflow: hidden;
+
+}
+ul
+{
+color: rgb(122, 122, 237);
+background-color: aqua;
+border: 5px solid white;
+list-style-type: none;
+margin: 0%;
+padding: 0%;
+overflow: hidden;
+
+}
+li {
+    float: left;
+    padding: 5px;
+}
+dl{color: rgb(53, 53, 238);
+    /* border: 5px solid white; */
+    list-style-type: none;
+    margin: 0%;
+    padding: 5%;
+    overflow: hidden;
+    
+
+
+}
+li a{
+    text-decoration: none;
+    color: rgb(231, 38, 38);
+    text-align: right;
+
+}
+li a:hover{
+    background-color: rgb(240, 234, 246);
+}

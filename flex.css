@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex;
+    /* flex-direction: c; */
+    background-color: rgb(159, 213, 232);
+    /* wraping property */
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    align-items: center;
+
+}
+.flex-container>div{
+    background-color: azure;
+    margin: 20px;
+    padding: 5px;
+    
+}

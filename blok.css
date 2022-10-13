@@ -1,0 +1,39 @@
+/* div h1{
+    color: rgb(48, 18, 10);
+    font-style: oblique;
+    /* background-color: rgb(217, 215, 215); */
+/* }
+div{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(228, 85, 28);
+    border-image: space;
+}
+div img{
+    border: 5px solid rgb(49, 33, 23);
+    width: px;
+} */
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-weight: 200;
+    font-size: 100px;
+    color: rgb(23, 1, 1);
+    text-align: center;
+}
+
+.n1{
+    color: rgb(39, 2, 2);
+    text-align: center;
+    border: 5px solid rgb(240, 169, 169);
+    background-color:rgb(96, 5, 5);
+} 
+.n2{
+    color: rgb(249, 90, 90);
+    border: 5px solid rgb(240, 169, 169);
+    background-color: rgb(161, 98, 98);
+
+
+}
+.n1,.n2 h2{
+    color: brown;
+}

@@ -1,0 +1,30 @@
+.flex-container{
+    display: flex;
+    background-color: rgb(91, 87, 87);
+    padding: 0px;
+    /* justify-content: center;
+    align-items: center; */
+    flex-wrap: wrap;
+}
+.flex-container>div{
+    background-color: azure;
+    /* flex-wrap: wrap; */
+    padding: 200px;
+    margin: 100px;
+}
+.header{
+text-align: center;
+color: rgb(44, 81, 113);
+}
+.column1{
+    padding: 10px;
+    flex: 25%;
+
+} 
+.row{
+    flex-wrap: nowrap;
+}
+.column1 img{
+    margin-top: 8px;
+    vertical-align: middle;
+}
